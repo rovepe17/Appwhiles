@@ -1,0 +1,6 @@
+c:\users\rociovera\documents\visual studio 2012\Projects\Appwhiles\Appwhiles\bin\Debug\Appwhiles.exe.config
+c:\users\rociovera\documents\visual studio 2012\Projects\Appwhiles\Appwhiles\obj\Debug\Appwhiles.csprojResolveAssemblyReference.cache
+c:\users\rociovera\documents\visual studio 2012\Projects\Appwhiles\Appwhiles\bin\Debug\Appwhiles.exe
+c:\users\rociovera\documents\visual studio 2012\Projects\Appwhiles\Appwhiles\bin\Debug\Appwhiles.pdb
+c:\users\rociovera\documents\visual studio 2012\Projects\Appwhiles\Appwhiles\obj\Debug\Appwhiles.exe
+c:\users\rociovera\documents\visual studio 2012\Projects\Appwhiles\Appwhiles\obj\Debug\Appwhiles.pdb
